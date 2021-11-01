@@ -1,0 +1,4 @@
+1st <li /> is first slide under <ul />
+<div class='content_tile' />
+<a /> holds the text
+
